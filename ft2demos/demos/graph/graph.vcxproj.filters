@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\graph">
+      <UniqueIdentifier>{35d39f84-e43d-4334-91d2-8edec0a7e05a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\win32\grwin32.c">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\gblblit.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\gblender.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\grblit.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\grdevice.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\grfill.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\grfont.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\grinit.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\grobjs.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ft2demos-2.9.1\graph\grswizzle.c">
+      <Filter>ソース ファイル\graph</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
