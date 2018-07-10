@@ -10,8 +10,5 @@
     <ClCompile Include="..\..\ft2demos-2.9.1\src\ftdump.c">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\ft2demos-2.9.1\src\mlgetopt.c">
-      <Filter>ソース ファイル</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
