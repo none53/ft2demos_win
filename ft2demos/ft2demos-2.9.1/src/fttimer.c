@@ -95,7 +95,7 @@
   static FT_Error
   LoadChar( int  idx )
   {
-    FT_Glyph  glyph;
+    FT_Glyph  glyph = 0;
 
 
     /* load the glyph in the glyph slot */
