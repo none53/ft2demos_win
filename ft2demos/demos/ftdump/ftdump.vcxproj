@@ -20,7 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\ft2demos-2.9.1\src\ftdump.c" />
-    <ClCompile Include="..\..\ft2demos-2.9.1\src\mlgetopt.c" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\freetype-2.9.1\builds\windows\vc2010\freetype.vcxproj">
