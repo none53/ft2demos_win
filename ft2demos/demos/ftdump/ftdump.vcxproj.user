@@ -3,6 +3,6 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LocalDebuggerWorkingDirectory>$(SolutionDir)</LocalDebuggerWorkingDirectory>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommandArguments> .\\fonts\\AdobeVFPrototype.ttf</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>-V  .\\fonts\\AdobeVFPrototype.ttf</LocalDebuggerCommandArguments>
   </PropertyGroup>
 </Project>
